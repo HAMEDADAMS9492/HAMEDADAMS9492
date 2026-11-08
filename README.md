@@ -1,16 +1,50 @@
-## Hi there 👋
+# Bonjour, je suis Mohamed Tahirou Adamou 👋
 
-<!--
-**HAMEDADAMS9492/HAMEDADAMS9492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiant au baccalauréat en informatique à l'UQTR** (cheminement science des données, diplôme prévu en décembre 2026), basé à Trois-Rivières, Québec.
 
-Here are some ideas to get you started:
+Je développe des applications Web et des outils fondés sur les données et l'intelligence artificielle. J'aime transformer un problème concret en un produit simple, fiable et utile au quotidien.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 En ce moment : un moteur de jeu en temps réel en **C# / .NET 8 (Blazor, SignalR)** et une couche de décision causale pour réduire les fausses alertes en vision par ordinateur.
+- 🌱 J'apprends : **Power BI** (certification PL-300) et l'anglais technique.
+- 🎯 Je recherche : un premier poste en **développement d'applications**, en **analyse de données** ou en **intelligence d'affaires**.
+
+---
+
+## 🧰 Technologies
+
+- **Langages :** Python · C# · Java · JavaScript · TypeScript · SQL · HTML · CSS
+- **Web :** .NET 8 (Blazor Server, SignalR) · React · Next.js · Astro · FastAPI · Tailwind CSS · Bootstrap
+- **Données et IA :** YOLOv8 · ByteTrack · OpenCV · OR-Tools · Streamlit
+- **Bases de données :** PostgreSQL · SQLite
+- **Outils :** Git · GitHub · Docker · Vercel · Visual Studio · pytest · MSTest
+
+---
+
+## 🚀 Projets en vedette
+
+| Projet | Description | Technologies | Lien |
+|---|---|---|---|
+| **SentinelReport** | Détection d'incidents de sécurité par vision par ordinateur et rédaction automatique de brouillons de rapports, avec score de priorité explicable. Projet de synthèse du baccalauréat. | Python, YOLOv8, ByteTrack, Streamlit, pytest | [Code](https://github.com/HAMEDADAMS9492/SENTINEL-REPORT) · [Présentation](https://sentinel-report.vercel.app) |
+| **QuranLight** | Application Web progressive : lecture du Coran, horaires de prière selon la position, Qibla, calendrier, mode hors ligne. | HTML, CSS, JavaScript, API REST, PWA | [Code](https://github.com/HAMEDADAMS9492/QuranLight) · [Site](https://quranlight.vercel.app) |
+| **Shift Scheduler** | Plateforme de planification automatique des horaires pour PME québécoises, conforme aux règles de la CNESST. | Next.js, TypeScript, FastAPI, PostgreSQL, OR-Tools | Code privé |
+| **GENESIS** | Jeu de stratégie Web multijoueur fondé sur le Jeu de la vie de Conway (cours de génie logiciel, en cours). | C#, .NET 8, Blazor Server, SignalR, MSTest | Code privé |
+
+## 🌐 Sites réalisés pour des clients
+
+| Client | Secteur | Technologies | Site |
+|---|---|---|---|
+| **JD Entretien Plus** (Shawinigan) | Entretien ménager | Astro, TypeScript, Tailwind CSS | [jdentretienplus.ca](https://jdentretienplus.ca) |
+| **Bijou Beauty Center** (Niamey) | Salon de coiffure et beauté | HTML, CSS, JavaScript, Bootstrap | [bijou-beauty-center.vercel.app](https://bijou-beauty-center.vercel.app) |
+| **FENTEA** (Niamey) | Café-restaurant | Next.js, React, Tailwind CSS | Code privé |
+
+---
+
+## 🇬🇧 In English
+
+Computer science student at UQTR (Quebec, Canada), graduating in December 2026, with a focus on data science. I build web applications and AI-powered tools, from computer vision incident detection (SentinelReport) to scheduling optimization (Shift Scheduler) and websites for small businesses. Currently learning Power BI and looking for my first role in software development, data analysis or business intelligence.
+
+---
+
+## 📫 Me joindre
+
+[LinkedIn](https://www.linkedin.com/in/mohamedtahirou9492/) · mohamed.tahirou.agali@gmail.com · Trois-Rivières, Québec
