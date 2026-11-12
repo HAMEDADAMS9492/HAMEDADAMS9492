@@ -29,13 +29,14 @@ Je développe des applications Web et des outils fondés sur les données et l'i
 | **Shift Scheduler** | Plateforme de planification automatique des horaires pour les PME québécoises, conforme aux règles de la CNESST. | Next.js, TypeScript, FastAPI, PostgreSQL, OR-Tools | Code privé |
 | **GENESIS** | Jeu de stratégie Web multijoueur fondé sur le Jeu de la vie de Conway (cours de génie logiciel, en cours). | C#, .NET 8, Blazor Server, SignalR, MSTest | Code privé |
 
-## Sites réalisés pour des clients
+## Sites Web réalisés
 
-| Client | Secteur | Technologies | Accès |
+| Site | Secteur | Technologies | Accès |
 |---|---|---|---|
 | **JD Entretien Plus** (Shawinigan) | Entretien ménager | Astro, TypeScript, Tailwind CSS | Code privé |
 | **Bijou Beauty Center** (Niamey) | Salon de coiffure et beauté | HTML, CSS, JavaScript, Bootstrap | Code privé |
 | **FENTEA** (Niamey) | Café-restaurant | Next.js, React, Tailwind CSS | Code privé |
+| **QuranLight** (projet personnel) | Religion et spiritualité | HTML, CSS, JavaScript, PWA | [quranlight.vercel.app](https://quranlight.vercel.app) |
 
 ---
 
