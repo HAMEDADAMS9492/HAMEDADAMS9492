@@ -31,10 +31,10 @@ Je développe des applications Web et des outils fondés sur les données et l'i
 
 ## Sites réalisés pour des clients
 
-| Client | Secteur | Technologies | Site |
+| Client | Secteur | Technologies | Accès |
 |---|---|---|---|
-| **JD Entretien Plus** (Shawinigan) | Entretien ménager | Astro, TypeScript, Tailwind CSS | [jdentretienplus.ca](https://jdentretienplus.ca) |
-| **Bijou Beauty Center** (Niamey) | Salon de coiffure et beauté | HTML, CSS, JavaScript, Bootstrap | [bijou-beauty-center.vercel.app](https://bijou-beauty-center.vercel.app) |
+| **JD Entretien Plus** (Shawinigan) | Entretien ménager | Astro, TypeScript, Tailwind CSS | Code privé |
+| **Bijou Beauty Center** (Niamey) | Salon de coiffure et beauté | HTML, CSS, JavaScript, Bootstrap | Code privé |
 | **FENTEA** (Niamey) | Café-restaurant | Next.js, React, Tailwind CSS | Code privé |
 
 ---
